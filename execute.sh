@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "Welcome to Docker and Kubernetes"
-echo "This is version 1"
+echo "Welcome to Kubernetes - rolling update"
+echo "This is version 2"
 echo "You just hit $HOSTNAME host"
